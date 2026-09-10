@@ -20,5 +20,5 @@ An interactive and professional Excel dashboard analyzing customer demographic a
 
 #### 📁 Project Resources & Links
 * **Dataset Link:** https://github.com/karthikmisra/Bike_Purchase_Analysis_Excel_4/blob/main/Bike_Purchase_Analysis_Excel_4.xlsx
-* **Before Working Screenshot:** [View Initial Data State](#) *(Replace with link to your raw data preview image)*
+* **Before Working Screenshot:**https://github.com/karthikmisra/Bike_Purchase_Analysis_Excel_4/blob/main/Bike_Purchase_Analysis_Dashboard_Screenshot_Excel.png
 * **After Working Screenshot:** [View Final Dashboard](#) *(Replace with link to your completed Excel dashboard screenshot)*
