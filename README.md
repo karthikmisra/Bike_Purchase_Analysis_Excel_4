@@ -19,6 +19,6 @@ An interactive and professional Excel dashboard analyzing customer demographic a
 * **Data Visualization:** Clustered Column Charts, Horizontal Bar Charts, Donut Charts, and Custom KPI Cards.
 
 #### 📁 Project Resources & Links
-* **Dataset Link:** [Bike_Purchase_Analysis_Excel_4.xlsx]
+* **Dataset Link:** Bike_Purchase_Analysis_Excel_4.xlsx
 * **Before Working Screenshot:** [View Initial Data State](#) *(Replace with link to your raw data preview image)*
 * **After Working Screenshot:** [View Final Dashboard](#) *(Replace with link to your completed Excel dashboard screenshot)*
