@@ -17,3 +17,8 @@ An interactive and professional Excel dashboard analyzing customer demographic a
 #### 🛠️ Tools & Techniques Used
 * **Microsoft Excel:** Pivot Tables, Advanced Formulas (`COUNTIFS`, `AVERAGEIF`, Binary Helper Columns), Interactive Slicers, and Dynamic Report Connections.
 * **Data Visualization:** Clustered Column Charts, Horizontal Bar Charts, Donut Charts, and Custom KPI Cards.
+
+#### 📁 Project Resources & Links
+* **Dataset Link:** [Access Raw Dataset Here](#) *(Replace with your repository dataset path or URL)*
+* **Before Working Screenshot:** [View Initial Data State](#) *(Replace with link to your raw data preview image)*
+* **After Working Screenshot:** [View Final Dashboard](#) *(Replace with link to your completed Excel dashboard screenshot)*
